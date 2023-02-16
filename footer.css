@@ -18,7 +18,7 @@ footer{
 }
 .parent-container{
     width: 100%;
-    height: inherit;
+    height: initial;
     border-top-right-radius: 12px;
     border-top-left-radius: 12px;
     background-color: rgba(22, 140, 201, 0.8);
@@ -27,6 +27,7 @@ footer{
     display: flex;
     /* background-color: #168cc9; */
     flex-direction: row;
+    
    
 }
 
